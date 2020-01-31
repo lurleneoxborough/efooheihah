@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eiboorohch.retrotext.news/sitemap.xml
